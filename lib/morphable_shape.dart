@@ -1,0 +1,32 @@
+library morphable_shape;
+
+export 'package:dimension/dimension.dart';
+
+export 'preset_shape_map.dart';
+export 'src/animated_decorated_shadowd_shape.dart';
+export 'src/decorated_shadowed_shape.dart';
+export 'src/dynamic_path/dynamic_path.dart';
+export 'src/dynamic_path/dynamic_path_morph.dart';
+export 'src/morphable_shape_border.dart';
+export 'src/morphable_shape_border_tween.dart';
+export 'src/parse_json.dart';
+export 'src/shape_borders/arc.dart';
+export 'src/shape_borders/arrow.dart';
+export 'src/shape_borders/bubble.dart';
+export 'src/shape_borders/circle.dart';
+export 'src/shape_borders/path.dart';
+export 'src/shape_borders/polygon.dart';
+export 'src/shape_borders/rectangle.dart';
+export 'src/shape_borders/rounded_rectangle.dart';
+export 'src/shape_borders/star.dart';
+export 'src/shape_borders/trapezoid.dart';
+export 'src/shape_borders/triangle.dart';
+export 'src/ui_data_classes/corner_style.dart';
+export 'src/ui_data_classes/dynamic_border_radius.dart';
+export 'src/ui_data_classes/dynamic_border_side.dart';
+export 'src/ui_data_classes/dynamic_offset.dart';
+export 'src/ui_data_classes/dynamic_rectangle_styles.dart';
+export 'src/ui_data_classes/shape_shadow.dart';
+export 'src/ui_data_classes/shape_side.dart';
+export 'src/utils/utils_extension_methods.dart';
+export 'src/utils/utils_math_geometry.dart';
